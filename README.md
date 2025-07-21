@@ -1,37 +1,36 @@
-# Gendata-capstone
 # She Deserved to Live: A Data Story on Femicide
 
 ##  Project Title  
 **She Deserved to Live: A Data Story on Femicide**
 
 ## Project Description  
-This project explores the tragic reality of femicide in Kenya, focusing on data from 2016 to 2025. It aims to document and analyze cases of gender-based killings, tell the stories behind the numbers, and help raise awareness through data-driven storytelling.
+This project explores the tragic and urgent issue of femicide in Kenya, covering data from 2016 to 2025. It aims to document gender-based killings, reveal patterns and trends, and tell the stories of the women behind the numbers. Through data-driven storytelling, the project seeks to drive awareness and advocacy.
 
 ## Purpose / Problem Solved  
-Femicide cases are often underreported or lost in the news cycle. This project aims to create a central, accessible platform that not only highlights these cases but also gives a voice to the women behind the data. By combining scraping and visualization, the project sheds light on trends, regions affected, and the urgency of intervention.
+Femicide in Kenya is often underreported or quickly forgotten. This project creates a central, accessible platform that tracks and visualizes these cases over time. By using data and storytelling, it ensures these women are not just statistics, and helps the public and policymakers see the urgency of action.
 
-## Planned Features  
-- Web scraping of recent cases (2024–2025)  
-- Dashboard showing number of cases by year,agegroup,region   
-- Summary statistics and insights  
-- Personal stories linked to select cases (where available)
+##  Planned Features  
+- Web scraping of femicide cases from 2024–2025  
+- Dashboard showing trends by year, age group, and region  
+- Summary statistics and analytical insights  
+- Integration of personal stories and case highlights (where available)
 
-## Technologies / Concepts I Plan to Use  
-- Python (Web Scraping with BeautifulSoup)   
-- Excel for data cleaning
-- SQL 
-- Tableau
+##  Technologies / Concepts Used  
+- **Python** (Web scraping with BeautifulSoup)  
+- **Excel** (Data cleaning and preprocessing)  
+- **SQL** (Data querying and structuring)  
+- **Tableau** (Interactive dashboards and geographic visualizations)  
 
-## Data Source  
-- A previously existing dataset (2016–2023) collected by Kenyan feminists and activists  
-- Real-time news scraping for data from 2024–2025 (standard Kenyan news sources and archives)
+##  Data Sources  
+- Public dataset (2016–2023) compiled by Kenyan feminists and gender justice organizations  
+- Real-time scraping from major Kenyan news sources for 2024–2025  
 
 ## Success Criteria  
-- Cleaned and structured dataset with consistent fields  
-- A working dashboard for visualization  
-- A published Lovable website explaining the story through data  
+- A cleaned, up-to-date dataset covering 2016–2025  
+- Tableau dashboard with maps, yearly trends, and demographic breakdowns  
+- A Lovable-published website that presents the data story in a powerful, accessible format  
 
-##  Stretch Goals  
-- Intergrating a chatbot 
-- Predictive modeling for identifying high-risk regions
-- Integration of audio or visual storytelling for impact  
+## Stretch Goals  
+- Integrating a chatbot to guide users through the data  
+- Building predictive models to identify high-risk regions  
+- Including multimedia (audio/visual) content for more powerful storytelling  
